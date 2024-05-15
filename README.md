@@ -1,16 +1,14 @@
-### Hi there 👋
+![banner1](https://github.com/MauroNadalin/MauroNadalin/assets/169415207/04e27103-0ec0-4acd-95c6-2abf60555e7f)
 
-<!--
-**MauroNadalin/MauroNadalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Olá, 👋
+
+- 🔭 Atualmente trabalho da Claro, manutenção de redes HFC.
+- 🌱 Estou concluindo Curso Superior de Tecnologia em Sistemas de Telecomunicações, UTFPR.
+- 🌱 Participo do programa TrendsIT, trilha de programação e testes (java, javascript, css, python, c++).
+- 🌱 Testes utilizando ferramentas Inteliij IDEA, Node.
+- 📫 Contatos: mnadalin@alunos.utfpr.edu.br / manadalin@outlook.com
+
+
